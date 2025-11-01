@@ -1,4 +1,4 @@
-#22ug3-0122
+# 22ug3-0122
 
 import random
 from bubble_sort import bubble_sort
@@ -92,4 +92,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
